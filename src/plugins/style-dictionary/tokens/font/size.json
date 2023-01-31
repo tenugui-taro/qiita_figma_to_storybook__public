@@ -1,0 +1,18 @@
+{
+  "font": {
+    "size": {
+      "xxs": { "value": 10 },
+      "xs": { "value": 12 },
+      "s": { "value": 14 },
+      "m": { "value": 16 },
+      "l": { "value": 20 },
+      "heading": {
+        "0": { "value": 40 },
+        "1": { "value": 32 },
+        "2": { "value": 28 },
+        "3": { "value": 24 }
+      },
+      "default": { "value": "{font.size.m.value}" }
+    }
+  }
+}

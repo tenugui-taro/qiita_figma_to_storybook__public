@@ -1,0 +1,14 @@
+.copyableText__copied,
+.copyableText__text {
+  padding: 8px;
+  font-size: 14px;
+  color: #3664b5;
+}
+
+.copyableText__text {
+  cursor: copy;
+}
+
+.copyableText__text:hover {
+  background-color: #d4edff;
+}

@@ -1,0 +1,35 @@
+.tokenTable {
+  padding: 16px 32px;
+}
+
+.tokenTable__inner {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tokenTable th,
+.tokenTable td {
+  padding: 16px;
+}
+
+.tokenTable th {
+  text-align: start;
+  font-size: 16px;
+  padding-bottom: 16px;
+}
+
+.tokenTable__headerRow {
+  border-bottom: 1px solid #333;
+}
+
+.tokenTable__bodyRow {
+  border-bottom: 1px solid #ddd;
+}
+
+.tokenTable__preview {
+  width: 120px;
+}
+
+.tokenTable__value {
+  color: #8c8c8c;
+}

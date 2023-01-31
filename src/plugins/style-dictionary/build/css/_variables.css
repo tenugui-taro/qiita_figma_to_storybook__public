@@ -1,0 +1,38 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 30 Jan 2023 18:12:53 GMT
+ */
+
+:root {
+  --font-weight-bold: 700;
+  --font-weight-semibold: 600;
+  --font-weight-normal: 400;
+  --font-size-heading-3: 24px;
+  --font-size-heading-2: 28px;
+  --font-size-heading-1: 32px;
+  --font-size-heading-0: 40px;
+  --font-size-l: 20px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xs: 12px;
+  --font-size-xxs: 10px;
+  --color-purple-2: #bb6bd9;
+  --color-purple-1: #9b51e0;
+  --color-blue-3: #56ccf2;
+  --color-blue-2: #2d9cdb;
+  --color-blue-1: #2f80ed;
+  --color-green-3: #6fcf97;
+  --color-green-2: #27ae60;
+  --color-green-1: #219653;
+  --color-yellow-1: #f2c94c;
+  --color-orange-1: #f2994a;
+  --color-red-1: #eb5757;
+  --color-gray-6: #f2f2f2;
+  --color-gray-5: #e0e0e0;
+  --color-gray-4: #bdbdbd;
+  --color-gray-3: #828282;
+  --color-gray-2: #4f4f4f;
+  --color-gray-1: #333333;
+  --font-weight-default: var(--font-weight-normal);
+  --font-size-default: var(--font-size-m);
+}
